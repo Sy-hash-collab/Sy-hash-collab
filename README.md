@@ -1,204 +1,133 @@
-# 🎨 GitHub Revamp - Profile README Template
+# Hi there! 👋 I'm Rutab Aziz
 
-> Create an awesome GitHub profile README in minutes! Clone, customize, and showcase your projects with style.
-
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=flat-square)](https://opensource.org/licenses/MIT)
-[![GitHub Stars](https://img.shields.io/github/stars/gulglitch/github-revamp?style=flat-square)](https://github.com/gulglitch/github-revamp/stargazers)
-[![GitHub Forks](https://img.shields.io/github/forks/gulglitch/github-revamp?style=flat-square)](https://github.com/gulglitch/github-revamp/network)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=DM+Mono&size=15&pause=1200&color=D85A30&center=true&vCenter=true&width=680&lines=Developer;Open Source Enthusiast;Lifelong Learner)](https://git.io/typing-svg)
 
 ---
 
-## 🌟 What is This?
+## 👨‍💻 About Me
 
-**GitHub Revamp** is a ready-to-use GitHub profile README template that helps you create a professional and eye-catching profile in minutes. No coding required - just clone, replace placeholders, and push!
+I'm a passionate developer with diverse interests spanning web development and open-source.
 
-### ✨ Features
-
-- 🎯 **Easy to use** - Just replace placeholders with your info
-- 🐍 **Animated contribution snake** - GitHub Actions included
-- 📊 **GitHub stats cards** - Automatically updated
-- 🎨 **Fully customizable** - Colors, themes, sections
-- 📱 **Responsive design** - Looks great on all devices
-- 🚀 **Zero dependencies** - Pure markdown, no build process
+- 🔭 Currently learning and building innovative projects
+- 🎮 Coding
+- 🤖 Reading
+- 📱 Exploring new tech
+- 💼 Open to collaboration and opportunities
+- 🧠 Interested in: JavaScript, Python, React
 
 ---
 
-## 📸 Preview
+## ⭐ LATEST PROJECTS
 
-Check out the live example: [github.com/gulglitch](https://github.com/gulglitch)
-
----
-
-## 🚀 Quick Start
-
-### 1️⃣ Create Your Profile Repository
-
-Your repository must be named **exactly** as your GitHub username:
-- Username: `john-doe` → Repository: `john-doe/john-doe`
-
-### 2️⃣ Clone This Template
-
-```bash
-git clone https://github.com/gulglitch/github-revamp.git [your-username]
-cd [your-username]
-```
-
-### 3️⃣ Change Remote URL
-
-```bash
-git remote remove origin
-git remote add origin https://github.com/[YOUR-USERNAME]/[YOUR-USERNAME].git
-```
-
-### 4️⃣ Customize Your Profile README
-
-Rename the template file:
-```bash
-# On Windows (cmd)
-move PROFILE_TEMPLATE.md README.md
-
-# On Windows (PowerShell) / macOS / Linux
-mv PROFILE_TEMPLATE.md README.md
-```
-
-Open `README.md` and replace all placeholders:
-- `[YOUR_NAME]` → Your name
-- `[YOUR_USERNAME]` → Your GitHub username
-- `[YOUR_EMAIL]` → Your email
-- `[YOUR_TAGLINE_X]` → Your taglines
-- And more...
-
-### 5️⃣ Push to GitHub
-
-```bash
-git add .
-git commit -m "Initial profile setup"
-git push -u origin main
-```
-
-### 6️⃣ Enable GitHub Actions
-
-1. Go to your repository settings
-2. Settings → Actions → General
-3. Enable "Read and write permissions"
-4. Save
-
-**Done!** Visit `github.com/[your-username]` to see your profile 🎉
+| [PROJECT_ICON_1] **[PROJECT_1_NAME]** | [PROJECT_ICON_2] **[PROJECT_2_NAME]** |
+|---|---|
+| **[Project 1 Title](https://github.com/Sy-hash-collab/[PROJECT_1_REPO])**<br/>Project 1 description goes here. Explain what it does and its key features. <br/><br/>![Badge1](https://img.shields.io/badge/Tech1-color?style=flat-square&logo=tech1&logoColor=white) ![Badge2](https://img.shields.io/badge/Tech2-color?style=flat-square&logo=tech2&logoColor=white) | **[Project 2 Title](https://github.com/Sy-hash-collab/[PROJECT_2_REPO])**<br/>Project 2 description goes here. Highlight the main purpose and technology used. <br/><br/>![Badge3](https://img.shields.io/badge/Tech3-color?style=flat-square&logo=tech3&logoColor=white) ![Badge4](https://img.shields.io/badge/Tech4-color?style=flat-square&logo=tech4&logoColor=white) |
 
 ---
 
-## 📚 Full Documentation
+## 🔥 MORE PROJECTS
 
-For detailed setup instructions, customization options, and troubleshooting, see:
+| 💎 **[Project 3](https://github.com/Sy-hash-collab/[PROJECT_3_REPO])** | 🔄 **[Project 4](https://github.com/Sy-hash-collab/[PROJECT_4_REPO])** | 🧠 **[Project 5](https://github.com/Sy-hash-collab/[PROJECT_5_REPO])** |
+|---|---|---|
+| Project 3 description. Brief explanation of what it does. | Project 4 description. What problem does it solve? | Project 5 description. Key features and technologies. |
+| ![Tech](https://img.shields.io/badge/Tech-color?style=flat-square&logo=tech&logoColor=white) | ![Tech](https://img.shields.io/badge/Tech-color?style=flat-square&logo=tech&logoColor=white) | ![Tech](https://img.shields.io/badge/Tech-color?style=flat-square&logo=tech&logoColor=white) |
 
-👉 **[SETUP_GUIDE.md](SETUP_GUIDE.md)**
+| 📧 **[Project 6](https://github.com/Sy-hash-collab/[PROJECT_6_REPO])** | 🩺 **[Project 7](https://github.com/Sy-hash-collab/[PROJECT_7_REPO])** | 🧮 **[Project 8](https://github.com/Sy-hash-collab/[PROJECT_8_REPO])** |
+|---|---|---|
+| Project 6 description with key highlights. | Project 7 description explaining the use case. | Project 8 description and what makes it special. |
+| ![Tech](https://img.shields.io/badge/Tech-color?style=flat-square&logo=tech&logoColor=white) | ![Tech](https://img.shields.io/badge/Tech-color?style=flat-square&logo=tech&logoColor=white) | ![Tech](https://img.shields.io/badge/Tech-color?style=flat-square&logo=tech&logoColor=white) |
 
----
+| 📱 **[Project 9](https://github.com/Sy-hash-collab/[PROJECT_9_REPO])** |
+|---|
+| Project 9 description. What technology or approach makes this interesting? |
+| ![Tech](https://img.shields.io/badge/Tech-color?style=flat-square&logo=tech&logoColor=white) ![Tech2](https://img.shields.io/badge/Tech2-color?style=flat-square&logo=tech2&logoColor=white) |
 
-## 🎨 What's Included?
-
-### Sections in the Template:
-
-1. **Animated Header** - Dynamic typing effect with your taglines
-2. **About Me** - Introduction and interests
-3. **Latest Projects** - Showcase your top 2 projects with tech badges
-4. **More Projects** - Grid layout for up to 9 projects
-5. **Highlights** - Key achievements or focus areas
-6. **GitHub Stats** - Auto-generated stats, languages, and streak
-7. **Contribution Snake** - Animated contribution graph
-8. **Tech Stack** - Categorized technology badges
-9. **Connect With Me** - Social media links
-10. **Profile Views Counter** - Track your profile visitors
-
-### Files Included:
-
-```
-github-revamp/
-├── README.md                          # About this template (you're reading it!)
-├── PROFILE_TEMPLATE.md                # Your profile README template (rename to README.md)
-├── SETUP_GUIDE.md                     # Detailed setup instructions
-└── .github/
-    └── workflows/
-        └── snake.yml                  # Contribution snake animation
-```
+> 👉 See pinned repos below for live demos and code!
 
 ---
 
-## 🎯 Customization Tips
+## 🏆 HIGHLIGHTS
 
-### Change Accent Color
-
-Replace `D85A30` (orange) with your preferred color:
-- Blue: `3B82F6`
-- Green: `10B981`
-- Purple: `8B5CF6`
-- Red: `EF4444`
-
-### Add More Tech Badges
-
-Visit [shields.io](https://shields.io/) and [simpleicons.org](https://simpleicons.org/)
-
-Format:
-```markdown
-![Name](https://img.shields.io/badge/Name-HexColor?style=flat-square&logo=logoname&logoColor=white)
-```
-
-### Change Stats Theme
-
-Available themes: `tokyonight`, `dark`, `radical`, `gruvbox`, `dracula`, `monokai`, `vue`, `onedark`, `cobalt`, `nightowl`
-
-Replace `theme=tokyonight` in the stats URLs.
+| 🎮 [Highlight 1] | 🤖 [Highlight 2] | 📱 [Highlight 3] | 🌐 [Highlight 4] |
+|---|---|---|---|
+| Description of highlight 1 | Description of highlight 2 | Description of highlight 3 | Description of highlight 4 |
 
 ---
 
-## 🤝 Contributing
+## 📊 GITHUB STATS
 
-Contributions are welcome! If you have ideas for improvements:
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Sy-hash-collab&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=D85A30&icon_color=D85A30&text_color=c9d1d9" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sy-hash-collab&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=D85A30&text_color=c9d1d9" alt="Top Languages" />
+</p>
 
-1. Fork the repository
-2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
----
-
-## 📝 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Sy-hash-collab&theme=tokyonight&hide_border=true&background=0d1117&ring=D85A30&fire=D85A30&currStreakLabel=D85A30" alt="GitHub Streak" />
+</p>
 
 ---
 
-## 💡 Inspiration
+## 🐍 CONTRIBUTION SNAKE
 
-This template was inspired by the need for an easy, customizable GitHub profile README that anyone can use without complex setup or dependencies.
-
----
-
-## 🙏 Acknowledgments
-
-- [GitHub README Stats](https://github.com/anuraghazra/github-readme-stats) by anuraghazra
-- [Contribution Snake](https://github.com/Platane/snk) by Platane
-- [Typing SVG](https://github.com/DenverCoder1/readme-typing-svg) by DenverCoder1
-- [Shields.io](https://shields.io/) for badges
-- [Simple Icons](https://simpleicons.org/) for logo icons
+![github contribution grid snake animation](https://github.com/Sy-hash-collab/Sy-hash-collab/raw/output/github-contribution-grid-snake-dark.svg)
 
 ---
 
-## ⭐ Show Your Support
+## 🛠 TECH STACK
 
-If this template helped you create an awesome GitHub profile, please give it a star! ⭐
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=222)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+
+**Frameworks & Libraries**
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000?style=flat-square&logo=express&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+
+**Databases & Backend Services**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+
+**Developer Tools**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 
 ---
 
-## 📫 Contact
+## 📫 CONNECT WITH ME
 
-**Gul e Zara** - [@gulglitch](https://github.com/gulglitch)
-
-Project Link: [https://github.com/gulglitch/github-revamp](https://github.com/gulglitch/github-revamp)
+<p align="center">
+  <a href="https://github.com/Sy-hash-collab">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="mailto:rutabaziz2004@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://www.linkedin.com/in/in/rutabaziz/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</p>
 
 ---
 
-**Made with ❤️ for the developer community**
+<p align="center">
+  <i>"Hello, World!"</i>
+</p>
 
-*Happy profiling! 🚀*
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Sy-hash-collab&color=D85A30&style=flat-square&label=Profile+Views" alt="Profile views" />
+</p>
