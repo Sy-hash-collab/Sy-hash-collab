@@ -77,7 +77,7 @@ I'm a Final-year BS Computer Science student specializing in Python, Generative 
 
 ## 🐍 CONTRIBUTION SNAKE
 
-![github contribution grid snake animation](https://github.com/Sy-hash-collab/Sy-hash-collab/raw/output/github-contribution-grid-snake-dark.svg)
+![github contribution grid snake animation](https://github.com/Sy-hash-collab/Sy-hash-collab/raw/output/github-contribution-grid-snake-dark.svg?v=1)
 
 ---
 
